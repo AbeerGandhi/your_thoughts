@@ -1,0 +1,17 @@
+Instagram,facbook logo All Logos are taken from https://fontawesome.com
+
+img source used or any images used are from here : website: https://www.pexels.com
+
+mongodb:username:abeergandhi 
+        pass:abeergandhi2
+
+mongodb://abeergandhi:<db_password>@<hostname>/?ssl=true&replicaSet=atlas-92diu4-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
+
+postman donload karo aur waha pe kaam karna h baaki 
+jab auth banaya tha tab use kiya vo 
+        new collection banaya  
+        rename kiya register ke liye 
+        POST select kiya
+        waha pe http://localhost:5000/api/auth/register daala 
+        uske baad body pe gye
+        raw select kiya baaki ka kaam karne 
